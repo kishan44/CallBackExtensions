@@ -1,6 +1,6 @@
 # CallBack Extensions
 
-This repository is to add useful functions to UIView to increase productivity. This respository includes UIView, UIButton extension class. 
+This repository is to add useful functions to extend UIView's control to increase productivity. This repository includes UIView, UIButton extension class. 
 
 Extension Classes are available inside the Source folder of sample project.
 
